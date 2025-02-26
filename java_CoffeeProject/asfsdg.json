@@ -1,0 +1,219 @@
+{
+	"documents": [
+		{
+			"address": null,
+			"address_name": "경기 화성시 동탄대로",
+			"address_type": "ROAD",
+			"road3_address": {
+				"address_name": "경기 화성시 동탄대로",
+				"building_name": "",
+				"main_building_no": "",
+				"region_1depth_name": "경기",
+				"region_2depth_name": "화성시",
+				"region_3depth_name": "영천동",
+				"road_name": "동탄대로",
+				"sub_building_no": "",
+				"underground_yn": "N",
+				"x": "127.100002642565",
+				"y": "37.1874055968312",
+				"zone_no": ""
+			},
+			"x": "127.100002642565",
+			"y": "37.1874055968312"
+		},
+		{
+			"address": null,
+			"address_name": "경기 화성시 동탄대로시범길",
+			"address_type": "ROAD",
+			"road_address": {
+				"address_name": "경기 화성시 동탄대로시범길",
+				"building_name": "",
+				"main_building_no": "",
+				"region_1depth_name": "경기",
+				"region_2depth_name": "화성시",
+				"region_3depth_name": "청계동",
+				"road_name": "동탄대로시범길",
+				"sub_building_no": "",
+				"underground_yn": "N",
+				"x": "127.112876834877",
+				"y": "37.2002325861755",
+				"zone_no": ""
+			},
+			"x": "127.112876834877",
+			"y": "37.2002325861755"
+		},
+		{
+			"address": null,
+			"address_name": "경기 화성시 동탄대로1길",
+			"address_type": "ROAD",
+			"road_address": {
+				"address_name": "경기 화성시 동탄대로1길",
+				"building_name": "",
+				"main_building_no": "",
+				"region_1depth_name": "경기",
+				"region_2depth_name": "화성시",
+				"region_3depth_name": "장지동",
+				"road_name": "동탄대로1길",
+				"sub_building_no": "",
+				"underground_yn": "N",
+				"x": "127.098517277306",
+				"y": "37.1610433088758",
+				"zone_no": ""
+			},
+			"x": "127.098517277306",
+			"y": "37.1610433088758"
+		},
+		{
+			"address": null,
+			"address_name": "경기 화성시 동탄대로2길",
+			"address_type": "ROAD",
+			"road_address": {
+				"address_name": "경기 화성시 동탄대로2길",
+				"building_name": "",
+				"main_building_no": "",
+				"region_1depth_name": "경기",
+				"region_2depth_name": "화성시",
+				"region_3depth_name": "장지동",
+				"road_name": "동탄대로2길",
+				"sub_building_no": "",
+				"underground_yn": "N",
+				"x": "127.110688679744",
+				"y": "37.1565509750086",
+				"zone_no": ""
+			},
+			"x": "127.110688679744",
+			"y": "37.1565509750086"
+		},
+		{
+			"address": null,
+			"address_name": "경기 화성시 동탄대로3길",
+			"address_type": "ROAD",
+			"road_address": {
+				"address_name": "경기 화성시 동탄대로3길",
+				"building_name": "",
+				"main_building_no": "",
+				"region_1depth_name": "경기",
+				"region_2depth_name": "화성시",
+				"region_3depth_name": "장지동",
+				"road_name": "동탄대로3길",
+				"sub_building_no": "",
+				"underground_yn": "N",
+				"x": "127.104082022192",
+				"y": "37.1638421919895",
+				"zone_no": ""
+			},
+			"x": "127.104082022192",
+			"y": "37.1638421919895"
+		},
+		{
+			"address": null,
+			"address_name": "경기 화성시 동탄대로4가길",
+			"address_type": "ROAD",
+			"road_address": {
+				"address_name": "경기 화성시 동탄대로4가길",
+				"building_name": "",
+				"main_building_no": "",
+				"region_1depth_name": "경기",
+				"region_2depth_name": "화성시",
+				"region_3depth_name": "장지동",
+				"road_name": "동탄대로4가길",
+				"sub_building_no": "",
+				"underground_yn": "N",
+				"x": "127.112850339653",
+				"y": "37.1597158844079",
+				"zone_no": ""
+			},
+			"x": "127.112850339653",
+			"y": "37.1597158844079"
+		},
+		{
+			"address": null,
+			"address_name": "경기 화성시 동탄대로4길",
+			"address_type": "ROAD",
+			"road_address": {
+				"address_name": "경기 화성시 동탄대로4길",
+				"building_name": "",
+				"main_building_no": "",
+				"region_1depth_name": "경기",
+				"region_2depth_name": "화성시",
+				"region_3depth_name": "장지동",
+				"road_name": "동탄대로4길",
+				"sub_building_no": "",
+				"underground_yn": "N",
+				"x": "127.114025655656",
+				"y": "37.1617222252863",
+				"zone_no": ""
+			},
+			"x": "127.114025655656",
+			"y": "37.1617222252863"
+		},
+		{
+			"address": null,
+			"address_name": "경기 화성시 동탄대로4나길",
+			"address_type": "ROAD",
+			"road_address": {
+				"address_name": "경기 화성시 동탄대로4나길",
+				"building_name": "",
+				"main_building_no": "",
+				"region_1depth_name": "경기",
+				"region_2depth_name": "화성시",
+				"region_3depth_name": "",
+				"road_name": "동탄대로4나길",
+				"sub_building_no": "",
+				"underground_yn": "N",
+				"x": "127.116610312578",
+				"y": "37.1609643539257",
+				"zone_no": ""
+			},
+			"x": "127.116610312578",
+			"y": "37.1609643539257"
+		},
+		{
+			"address": null,
+			"address_name": "경기 화성시 동탄대로4다길",
+			"address_type": "ROAD",
+			"road_address": {
+				"address_name": "경기 화성시 동탄대로4다길",
+				"building_name": "",
+				"main_building_no": "",
+				"region_1depth_name": "경기",
+				"region_2depth_name": "화성시",
+				"region_3depth_name": "장지동",
+				"road_name": "동탄대로4다길",
+				"sub_building_no": "",
+				"underground_yn": "N",
+				"x": "127.115153419583",
+				"y": "37.1587623323379",
+				"zone_no": ""
+			},
+			"x": "127.115153419583",
+			"y": "37.1587623323379"
+		},
+		{
+			"address": null,
+			"address_name": "경기 화성시 동탄대로4라길",
+			"address_type": "ROAD",
+			"road_address": {
+				"address_name": "경기 화성시 동탄대로4라길",
+				"building_name": "",
+				"main_building_no": "",
+				"region_1depth_name": "경기",
+				"region_2depth_name": "화성시",
+				"region_3depth_name": "장지동",
+				"road_name": "동탄대로4라길",
+				"sub_building_no": "",
+				"underground_yn": "N",
+				"x": "127.115271710874",
+				"y": "37.1597809531155",
+				"zone_no": ""
+			},
+			"x": "127.115271710874",
+			"y": "37.1597809531155"
+		}
+	],
+	"meta": {
+		"is_end": false,
+		"pageable_count": 27,
+		"total_count": 27
+	}
+}
